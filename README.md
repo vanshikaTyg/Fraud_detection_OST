@@ -54,5 +54,5 @@ git push origin main
 ```
 
 ## Authors
-- Rajas Samse
+- Vanshika Tyagi
 
